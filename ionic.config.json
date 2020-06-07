@@ -1,0 +1,7 @@
+{
+  "name": "iobic-react-bmi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
